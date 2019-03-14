@@ -1,6 +1,7 @@
 # APES
 
-This repository is an implementation of the summaries evaluation metric presented in Question Answering as an Automatic Evaluation Metric for News Article Summarization [link](link)
+This repository is an implementation of the summaries evaluation metric presented in Question Answering as an Automatic Evaluation Metric for News Article Summarization [link](link).
+A Trained QA model on which we evaluate our generated summaries can be found in [here](https://github.com/mataney/rc-cnn-dailymail). (Notice these have different python versions so different environments are required) 
 
 ## preprocessing
 
