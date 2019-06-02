@@ -20,7 +20,7 @@ Then run both APES and ROUGE on your generated summaries. An example of a small 
 Filenames hold the mapping from CNN\Dail Mail article id to its hash.
 
 # Citation
-
+```
 @inproceedings{eyal-etal-2019-question,
     title = "Question Answering as an Automatic Evaluation Metric for News Article Summarization",
     author = "Eyal, Matan  and
@@ -34,3 +34,4 @@ Filenames hold the mapping from CNN\Dail Mail article id to its hash.
     url = "https://www.aclweb.org/anthology/N19-1395",
     pages = "3938--3948",
 }
+```
