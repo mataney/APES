@@ -18,3 +18,19 @@ Then run both APES and ROUGE on your generated summaries. An example of a small 
 `python run.py --preds_file testdata/test.txt.pred --targets_file testdata/test.txt.tgt --questions_mapping_path ./questions_data.pkl --filenames_path ./filenames/filenames-test.txt`
 
 Filenames hold the mapping from CNN\Dail Mail article id to its hash.
+
+# Citation
+
+@inproceedings{eyal-etal-2019-question,
+    title = "Question Answering as an Automatic Evaluation Metric for News Article Summarization",
+    author = "Eyal, Matan  and
+      Baumel, Tal  and
+      Elhadad, Michael",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/N19-1395",
+    pages = "3938--3948",
+}
